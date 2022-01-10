@@ -1,5 +1,5 @@
 {
-  "name": "parameterize.js",
+  "name": "parameterize-js",
   "version": "1.0.0",
   "description": "Replaces special characters in a string so that it may be used as part of a 'pretty' URL",
   "main": "index.js",
@@ -11,7 +11,7 @@
   "author": "Conclurer GmbH",
   "repository": {
     "type": "git",
-    "url": "https://github.com/conclurer/parameterize.js"
+    "url": "https://github.com/conclurer/parameterize-js"
   },
   "license": "MIT",
   "devDependencies": {
